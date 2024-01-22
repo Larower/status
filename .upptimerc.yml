@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/Larower/status/master/Nebucast_Logo_2022_Version_5.2_light.png
   name: NEBUCAST STATUSPAGE
   introTitle: "**NEBUCAST STATUS**"
-  introMessage: **Monitoring Service** für NEBUCAST Webdienste.
+  introMessage: Monitoring Service für NEBUCAST Webdienste.
   navbar:
     - title: Status
       href: /
