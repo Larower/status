@@ -4,18 +4,20 @@
     "url": "https://www.nebucast.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.nebucast.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1507,
-    "timeDay": 1512,
-    "timeWeek": 1415,
-    "timeMonth": 1539,
-    "timeYear": 1507,
-    "dailyMinutesDown": {}
+    "time": 1493,
+    "timeDay": 958,
+    "timeWeek": 1288,
+    "timeMonth": 1504,
+    "timeYear": 1493,
+    "dailyMinutesDown": {
+      "2024-04-05": 0
+    }
   },
   {
     "name": "Cloudserver",
