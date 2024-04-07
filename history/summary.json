@@ -4,19 +4,19 @@
     "url": "https://www.nebucast.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.nebucast.com.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1528,
-    "timeDay": 1193,
-    "timeWeek": 1681,
-    "timeMonth": 1601,
-    "timeYear": 1528,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1556,
+    "timeDay": 2498,
+    "timeWeek": 1893,
+    "timeMonth": 1666,
+    "timeYear": 1556,
     "dailyMinutesDown": {
-      "2024-04-07": 0
+      "2024-04-07": 12
     }
   },
   {
