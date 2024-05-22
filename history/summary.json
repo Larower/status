@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1573,
-    "timeDay": 9375,
-    "timeWeek": 2697,
-    "timeMonth": 1774,
-    "timeYear": 1573,
+    "time": 1572,
+    "timeDay": 1448,
+    "timeWeek": 2722,
+    "timeMonth": 1782,
+    "timeYear": 1572,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,15 @@
     "slug": "cloudserver",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1201,
-    "timeDay": 1249,
-    "timeWeek": 1368,
-    "timeMonth": 1245,
-    "timeYear": 1201,
-    "dailyMinutesDown": {
-      "2024-05-21": 5
-    }
+    "time": 1204,
+    "timeDay": 1535,
+    "timeWeek": 1408,
+    "timeMonth": 1259,
+    "timeYear": 1204,
+    "dailyMinutesDown": {}
   }
 ]
