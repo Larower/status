@@ -4,7 +4,7 @@
     "url": "https://www.nebucast.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.nebucast.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2337,
     "timeMonth": 1569,
     "timeYear": 1547,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-02": 0
+    }
   },
   {
     "name": "Cloudserver",
