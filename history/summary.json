@@ -4,7 +4,7 @@
     "url": "https://www.nebucast.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.nebucast.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1148,
     "timeYear": 1407,
     "dailyMinutesDown": {
+      "2024-11-26": 0,
       "2024-10-10": 70,
       "2024-07-21": 57,
       "2024-07-15": 950,
