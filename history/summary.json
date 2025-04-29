@@ -4,7 +4,7 @@
     "url": "https://www.nebucast.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.nebucast.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1950,
     "timeYear": 1370,
     "dailyMinutesDown": {
+      "2025-04-29": 0,
       "2025-03-05": 24,
       "2024-10-10": 70,
       "2024-07-21": 57,
@@ -38,7 +39,7 @@
     "time": 1332,
     "timeDay": 1579,
     "timeWeek": 1285,
-    "timeMonth": 1100,
+    "timeMonth": 1116,
     "timeYear": 1369,
     "dailyMinutesDown": {
       "2025-04-15": 16,
