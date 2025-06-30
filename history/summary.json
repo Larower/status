@@ -31,7 +31,7 @@
     "url": "https://cloud.nebucast.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.nebucast.com.ico",
     "slug": "cloudserver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.96%",
@@ -43,6 +43,7 @@
     "timeMonth": 1229,
     "timeYear": 1358,
     "dailyMinutesDown": {
+      "2025-06-30": 0,
       "2025-06-24": 105,
       "2025-04-15": 16,
       "2025-03-03": 76,
