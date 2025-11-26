@@ -14,7 +14,7 @@
     "timeDay": 850,
     "timeWeek": 788,
     "timeMonth": 831,
-    "timeYear": 1194,
+    "timeYear": 1157,
     "dailyMinutesDown": {
       "2025-11-24": 26,
       "2025-09-24": 68,
@@ -29,7 +29,7 @@
     "url": "https://cloud.nebucast.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.nebucast.com.ico",
     "slug": "cloudserver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -41,6 +41,7 @@
     "timeMonth": 1151,
     "timeYear": 1297,
     "dailyMinutesDown": {
+      "2025-11-26": 0,
       "2025-08-10": 26,
       "2025-07-23": 62,
       "2025-06-30": 18,
